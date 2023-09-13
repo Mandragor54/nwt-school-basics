@@ -1,0 +1,11 @@
+{
+  "name": "nwt-school-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/simonh88/nwt-school-basics.git",
+  "author": "Mandragor <marie.trunkenwald@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
